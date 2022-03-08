@@ -1,0 +1,8 @@
+table, th, tr,td{
+    font-size: medium;
+    border: 1px solid red;
+    border-collapse: collapse;
+    border-color:maroon;
+
+
+}
